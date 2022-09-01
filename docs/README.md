@@ -10,27 +10,6 @@
 * 第 1 章和第 2 章根据[《强化学习纲要》](https://github.com/zhoubolei/introRL)整理而来；
 * 第 3 章和第 12 章根据[《世界冠军带你从零实践强化学习》](https://aistudio.baidu.com/aistudio/education/group/info/1335) 整理而来。
 
-## 纸质版
-
-<img src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/mogu.png" width="300">
-
-购买链接：[京东](https://item.jd.com/13075567.html) | [当当](http://product.dangdang.com/29374163.html)
-
-<table border="0">
-  <tbody>
-    <tr align="center" >
-      <td>
-         <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_jingdong.png" alt="pic">
-        <br>
-        <p>京东扫码购买</p>
-      </td>
-      <td>
-    <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_dangdang.png" alt="pic"><br>
-        <p>当当扫码购买</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 
